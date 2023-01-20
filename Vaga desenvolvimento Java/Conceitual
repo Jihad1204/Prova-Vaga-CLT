@@ -1,0 +1,22 @@
+1 - Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
+A camada 2 do modelo Osi (enlace), verifica se o pacote chegou da forma que foi enviado, verificando a integridade com os pacotes que são enviados, para que as próximas camadas possam fazer uma transmissão sem erros, e também controla o fluxo de dados transmitidos.
+Protocolos utilizados: Eternet, switch e Arp, entre outros.
+a camada 3 do modelo de Osi (Rede), existe o endereçamento de origem e destino, podendo priorizar alguns e decidir o caminho a ser enviado o pacote de dados. Controlando o roteamento entre a origem e destino do pacote.
+Protocolos utilizados: 	IP (IPv4, IPv6), ICMP, NAT e entre outros.
+
+2 - Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma solução OpenSource como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
+
+Um grande ponto é q numa solução proprietária  o acesso, utilização, modificação ou redistribuição do código fonte, em quaisquer casos, são proibidos por quem tem os direitos sobre o código. Ou seja, você deverá ter a permissão de quem criou para poder utilizar o código fonte para quaisquer fins.
+Já no Open Source é possivel editar conforma a necessidade, sendo mais volátil e adaptavel para cada empresa.
+
+Pontos Positivos:
+Proprietário: Equipe de suporte, não tem custo com desenvolvedores de implementação, mais facil manuseio e instalação e estavel.
+Open Source: Baixo custo, acesso ao codigo fonte para fazer ajustes, melhoria continua
+
+Pontos Negativos:
+Proprietário: Alto custo, mais engessado 
+Open Source: Sem contrato de suporte, Precisa de uma equipe para fazer a manutenção.
+
+3- O que seria um projeto OpenSource?Como empresas podem adotar tais tecnologias e o que isso acarreta?
+
+De forma simples, é possível entender um software open source como um produto desenvolvido em um regime descentralizado. Ou seja, não é a empresa a única responsável por sua produção, mas uma comunidade de usuários e desenvolvedores.
